@@ -1,0 +1,17 @@
+{
+  "resources/images/arrow-down.svg": {
+    "file": "assets/arrow-down-AQQvxd0b.svg",
+    "src": "resources/images/arrow-down.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DiaGsIN1.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-By9Sm4RM.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
